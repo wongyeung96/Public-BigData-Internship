@@ -1,0 +1,4263 @@
+<rss version="2.0">
+<channel>
+<title>기상청 육상 중기예보</title>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_02.jsp</link>
+<description>기상청 날씨 웹서비스</description>
+<language>ko</language>
+<generator>기상청</generator>
+<pubDate>2021년 07월 12일 (월)요일 06:00</pubDate>
+<item>
+<author>기상청</author>
+<category>육상중기예보</category>
+<title>서울,경기도 육상 중기예보 - 2021년 07월 12일 (월)요일 06:00 발표</title>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_02.jsp</link>
+<guid>http://www.kma.go.kr/weather/forecast/mid-term_02.jsp</guid>
+<description>
+<header>
+<title>서울,경기도 육상중기예보</title>
+<tm>202107120600</tm>
+<wf>
+<![CDATA[ ○ (강수) 16일(금) 오후에는 소나기가 내리는 곳이 있겠습니다.<br />○ (기온) 이번 예보기간 아침최저기온은 22~25도, 낮최고기온은 29~33도로 어제(11일, 아침최저기온 21~24도, 낮최고기온 24~29도)보다 높겠습니다.<br />○ (해상) 서해중부해상의 물결은 0.5~2.0m로 일겠습니다.<br />○ (주말전망) 17일(토)~18일(일)은 구름많겠고, 아침 기온은 22~24도, 낮 기온은 29~33도가 되겠습니다<br /><br />* 이번 예보기간 동안 내륙에는 낮최고기온이 33도 내외, 아침최저기온이 25도 내외로 오르는 곳이 많아 매우 무덥겠으니, 건강관리에 각별히 유의하기 바랍니다.<br />* 또한, 북태평양고기압 위치에 따른 강수 변동성이 크겠으니, 앞으로 발표되는 기상정보를 참고하기 바랍니다. ]]>
+</wf>
+</header>
+<body>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>서울</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>25</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>25</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>인천</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>29</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>29</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>29</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>24</tmn>
+<tmx>29</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>29</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>29</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>29</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>29</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>29</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>29</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>29</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>29</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>수원</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>파주</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>23</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>이천</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>23</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>평택</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>백령도</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>21</tmn>
+<tmx>26</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>21</tmn>
+<tmx>26</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>21</tmn>
+<tmx>26</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>21</tmn>
+<tmx>26</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>21</tmn>
+<tmx>26</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>21</tmn>
+<tmx>26</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>21</tmn>
+<tmx>26</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>21</tmn>
+<tmx>26</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>27</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>22</tmn>
+<tmx>27</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>22</tmn>
+<tmx>27</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>22</tmn>
+<tmx>27</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>22</tmn>
+<tmx>27</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>과천</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>광명</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>25</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>25</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>25</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>25</tmn>
+<tmx>34</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>25</tmn>
+<tmx>34</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>강화</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>29</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>23</tmn>
+<tmx>29</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>29</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>29</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>28</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>28</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>22</tmn>
+<tmx>29</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>22</tmn>
+<tmx>29</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>김포</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>25</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>25</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>25</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>25</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>시흥</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>안산</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>34</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>34</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>부천</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>24</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>29</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>29</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>의정부</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>고양</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>34</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>34</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>양주</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>동두천</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>연천</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>21</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>21</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>21</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>21</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>22</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>34</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>포천</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>가평</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>34</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>34</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>22</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>구리</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>25</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>25</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>25</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>34</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>남양주</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>24</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>34</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>양평</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>하남</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>34</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>안양</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>25</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>25</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>25</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>25</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>25</tmn>
+<tmx>34</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>오산</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>34</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>34</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>화성</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>24</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>성남</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>34</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>의왕</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>22</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>34</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>군포</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>25</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>34</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>안성</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>용인</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>광주</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>24</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>24</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>33</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>여주</city>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-15 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-16 12:00</tmEf>
+<wf>구름많고 소나기</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>80</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-17 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>23</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-18 12:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 00:00</tmEf>
+<wf>구름많음</wf>
+<tmn>22</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>30</rnSt>
+</data>
+<data>
+<mode>A02</mode>
+<tmEf>2021-07-19 12:00</tmEf>
+<wf>흐림</wf>
+<tmn>22</tmn>
+<tmx>30</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-20 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-21 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>32</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+<data>
+<mode>A01</mode>
+<tmEf>2021-07-22 00:00</tmEf>
+<wf>흐림</wf>
+<tmn>23</tmn>
+<tmx>31</tmx>
+<reliability/>
+<rnSt>40</rnSt>
+</data>
+</location>
+</body>
+</description>
+</item>
+</channel>
+</rss>
